@@ -1,0 +1,11 @@
+VAR
+	CounterU16 : UINT;
+	a : DINT;
+	b : DINT;
+	res4 : DINT;
+	res3 : DINT;
+	res2 : DINT;
+	res1 : DINT;
+	cpu_time : LREAL;
+	cycle_time : LREAL;
+END_VAR

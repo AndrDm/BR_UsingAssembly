@@ -1,3 +1,7 @@
+# B&R
+Binaries/
+Temp/
+
 # Libraries
 *.lvlibp
 *.llb

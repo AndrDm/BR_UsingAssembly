@@ -1,0 +1,10 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=Program 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=102 Type=0 Scope=0 Force=0 Index=5 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                              CounterU16                                     UINT    0 "                                                           11768"    0    6    1   10    1    0         
+                                    res1                                     DINT    0 "                                                           70602"    0    4    1   10    1    0         
+                                    res2                                     DINT    0 "                                                           70604"    0    4    1   10    1    0         
+                                    res3                                     DINT    0 "                                                           70606"    0    4    1   10    1    0         
+                                    res4                                     DINT    0 "                                                           70608"    0    4    1   10    1    0         
+                                cpu_time                                    LREAL    0 "                                                          1132.0"    0   14    1   10    1    0         
+                              cycle_time                                    LREAL    0 "                                                    2671767426.0"    0   14    1   10    1    0         
